@@ -1,4 +1,6 @@
 # BCG-X Data Science 
+
+SKILLS :
 Business Understanding,
 Hypothesis Framing,
 Communication,
